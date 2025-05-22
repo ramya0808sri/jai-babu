@@ -1,0 +1,33 @@
+.my-container{
+    text-align: center;
+    background-color: rgb(8, 8, 8);
+    height: 54vh;
+
+}
+.mouli{
+    color: blue ;
+}
+body{
+    background-color: rgb(237, 237, 8);
+}
+img{
+    height: 20vh;
+    width: 40vh;
+}
+.manoj{
+    color: rgb(6, 254, 6);
+}
+.mmm{
+    text-align: center;
+    color: rgb(223, 5, 77);
+}
+address{
+    display: block;
+    font-style: italic;
+}
+button{
+    text-align: center;
+}
+.jaii{
+    color: rgb(4, 238, 254);
+}
